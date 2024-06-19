@@ -1,2 +1,2 @@
 # Modelling-blackflies-distribution
-ETthiopis
+Ethiopia
